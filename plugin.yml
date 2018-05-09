@@ -1,0 +1,7 @@
+name: Runnable
+main: me.Nomad.RunnableP.Main
+version: 1.0
+
+commands:
+    time:
+      description: Main time command.
